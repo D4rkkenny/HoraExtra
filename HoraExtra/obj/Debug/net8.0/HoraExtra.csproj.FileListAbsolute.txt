@@ -1,0 +1,14 @@
+C:\Users\brunoms\source\repos\HoraExtra\HoraExtra\obj\Debug\net8.0\HoraExtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunoms\source\repos\HoraExtra\HoraExtra\obj\Debug\net8.0\HoraExtra.AssemblyInfoInputs.cache
+C:\Users\brunoms\source\repos\HoraExtra\HoraExtra\obj\Debug\net8.0\HoraExtra.AssemblyInfo.cs
+C:\Users\brunoms\source\repos\HoraExtra\HoraExtra\obj\Debug\net8.0\HoraExtra.csproj.CoreCompileInputs.cache
+C:\Users\brunoms\source\repos\HoraExtra\HoraExtra\bin\Debug\net8.0\HoraExtra.exe
+C:\Users\brunoms\source\repos\HoraExtra\HoraExtra\bin\Debug\net8.0\HoraExtra.deps.json
+C:\Users\brunoms\source\repos\HoraExtra\HoraExtra\bin\Debug\net8.0\HoraExtra.runtimeconfig.json
+C:\Users\brunoms\source\repos\HoraExtra\HoraExtra\bin\Debug\net8.0\HoraExtra.dll
+C:\Users\brunoms\source\repos\HoraExtra\HoraExtra\bin\Debug\net8.0\HoraExtra.pdb
+C:\Users\brunoms\source\repos\HoraExtra\HoraExtra\obj\Debug\net8.0\HoraExtra.dll
+C:\Users\brunoms\source\repos\HoraExtra\HoraExtra\obj\Debug\net8.0\refint\HoraExtra.dll
+C:\Users\brunoms\source\repos\HoraExtra\HoraExtra\obj\Debug\net8.0\HoraExtra.pdb
+C:\Users\brunoms\source\repos\HoraExtra\HoraExtra\obj\Debug\net8.0\HoraExtra.genruntimeconfig.cache
+C:\Users\brunoms\source\repos\HoraExtra\HoraExtra\obj\Debug\net8.0\ref\HoraExtra.dll
